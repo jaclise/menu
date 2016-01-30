@@ -1,0 +1,17 @@
+{
+    "name": "jaclise/menu",
+    "description": "menu module.",
+    "type": "other",
+    "keywords": [],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "jaclise",
+            "email": "jaclise.che@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "extra": {
+    }
+}
