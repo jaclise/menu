@@ -1,7 +1,7 @@
 {
     "name": "jaclise/menu",
     "description": "menu module",
-    "type": "other",
+    "type": "yii2-extension",
     "keywords": [],
     "license": "Apache-2.0",
     "authors": [
