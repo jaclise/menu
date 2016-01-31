@@ -1,7 +1,7 @@
 <?php
 
 use yii\db\Schema;
-use console\migrations\BaseMigration;
+use jaclise\core\base\BaseMigration;
 
 class m160127_043131_init extends BaseMigration
 {
