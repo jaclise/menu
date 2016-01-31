@@ -3,7 +3,7 @@
 use yii\db\Schema;
 use jaclise\core\base\BaseMigration;
 
-class m160127_043131_init extends BaseMigration
+class m150127_043131_init extends BaseMigration
 {
     public function safeUp()
     {
