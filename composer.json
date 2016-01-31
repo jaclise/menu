@@ -12,6 +12,11 @@
     ],
     "require": {
     },
+    "autoload": {
+        "psr-4": {
+            "jaclise\\menu\\": ""
+        }
+    },
     "extra": {
     }
 }
